@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    margin: 0;
+    font-family: 'Inter', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  #root {
+    width: 100%;
+    min-height: 100vh;
+  }
+}
+
+@layer components {
+  .input {
+    @apply w-full px-4 py-3 rounded-lg bg-gray-900 text-white border border-gray-700 focus:border-amber-500 focus:ring-1 focus:ring-amber-500 outline-none transition-colors placeholder-gray-500;
+  }
+}

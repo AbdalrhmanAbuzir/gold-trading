@@ -1,0 +1,6 @@
+@GoldMarket_HostAddress = http://localhost:5262
+
+GET {{GoldMarket_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
