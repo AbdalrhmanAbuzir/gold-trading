@@ -1,4 +1,4 @@
-# 🪙 GoldMarket
+#  GoldMarket
 
 [![Backend](https://img.shields.io/badge/Backend-ASP.NET_Core_Web_API-purple.svg)](https://dotnet.microsoft.com/)
 [![Frontend](https://img.shields.io/badge/Frontend-React.js-blue.svg)](https://reactjs.org/)
@@ -40,7 +40,7 @@ GoldMarket implements a strict Multi-Role system with distinct permissions and c
 *   **Automated Expiration:** Real-time ordering equipped with auto-expiring reservations to prevent inventory lockups.
 *   **Live Ticker Integration:** Price architecture tracking live market fluctuations to ensure gold pricing precision.
 
-### 📊 Gold Shop Management Hub
+###  Gold Shop Management Hub
 *   **Dashboard Statistics:** Instant views of Total Orders, Reserved Statuses, Completed Deals, and Revenue Streams.
 *   **Receipt Verification:** Secure system for uploading verified physical transaction receipts before closing sales.
 *   **History Logs:** Full-scale history tracing for comprehensive auditing.
